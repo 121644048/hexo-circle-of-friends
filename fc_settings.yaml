@@ -84,7 +84,7 @@ DEPLOY_TYPE: "github"
 # 文章摘要
 # 参考: https://fcircle-doc.yyyzyyyz.cn/#/settings
 GENERATE_SUMMARY: {
-  enabled: false,
+  enabled: true,
   provider: "all",  # AI供应商，目前可选：gemini|siliconflow|all （使用 "all" 获得最佳可靠性）
   
   # 📝 可选：高级配置 (大部分情况下使用默认值即可)
