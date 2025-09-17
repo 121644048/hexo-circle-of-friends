@@ -41,7 +41,7 @@ SETTINGS_FRIENDS_LINKS: {
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
         # 如果目标地址的后缀不在其中，就可以在这里添加
         # 比如 https://elizen.me/hello.xml ，填写：
-        ["萌新所文", "https://www.imxw.cn/", "https://image.sunboy.ltd/20250915205508487.avif", "feed"]
+        ["萌新所文", "https://www.imxw.cn/", "https://image.sunboy.ltd/20250915205508487.avif", "index.php/feed"]
     ]
 }
 
