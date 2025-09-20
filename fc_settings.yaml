@@ -35,7 +35,7 @@ SETTINGS_FRIENDS_LINKS: {
     list: [
         # 示例1：
         # ["贰猹の小窝", "https://noionion.top/", "https://pub-noionion.oss-cn-hangzhou.aliyuncs.com/head.jpg"],
-        # ["瓦匠不舟", "https://airy.ink/", "https://image.sunboy.ltd/20250909230636435.avif"]
+        ["瓦匠不舟", "https://airy.ink/", "https://image.sunboy.ltd/20250909230636435.avif"]
         # ["Akilarの糖果屋", "https://akilar.top/", "https://akilar.top/images/headimage.png"],
         # 示例2：使用suffix的配置如下
         # 程序目前自动获取 "atom.xml", "feed/atom", "rss.xml", "rss2.xml", "feed", "index.xml" 这些后缀
@@ -49,7 +49,7 @@ SETTINGS_FRIENDS_LINKS: {
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
 #    "https?://example.com/", # http或https
-#    https://example.com/, # 屏蔽 https://example.com/
+   https://airy.ink/,
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http://开头的全部屏蔽
 ]
