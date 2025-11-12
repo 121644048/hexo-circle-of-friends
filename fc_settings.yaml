@@ -49,7 +49,17 @@ SETTINGS_FRIENDS_LINKS: {
 # 添加屏蔽站点，支持正则表达式
 BLOCK_SITE: [
 #    "https?://example.com/", # http或https
-   "https://airy.ink/"
+   "https://airy.ink/",
+   "https://www.blogsclub.org/",
+   "https://bloginc.cn/",
+   "https://www.boyouquan.com/",
+   "https://storeweb.cn/",
+   "https://bokequan.cn/",
+   "https://www.findblog.net/",
+   "https://bf.zzxworld.com/",
+   "https://blogscn.fun/",
+   "https://boke.lu/",
+   "https://www.zhblogs.net/"
 #    .*\.com,  # 含有.com的全部屏蔽
 #    ^http://,  # http://开头的全部屏蔽
 ]
